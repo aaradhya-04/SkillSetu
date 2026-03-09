@@ -176,7 +176,7 @@ This project is developed by a **team of five members**, where each member is re
 
 ---
 
-## Member 1
+## Member 1 (Aditi Saini)
 ### Modules
 - Landing Page
 - Smart Dashboard
@@ -188,7 +188,7 @@ This project is developed by a **team of five members**, where each member is re
 
 ---
 
-## Member 2
+## Member 2 (Abhishek Gupta)
 ### Modules
 - Skill Marketplace
 - Profile Page
@@ -200,7 +200,7 @@ This project is developed by a **team of five members**, where each member is re
 
 ---
 
-## Member 3
+## Member 3 (Jashanpreet kaur Aujla)
 ### Modules
 - Session Booking
 - Live Chat System
@@ -212,7 +212,7 @@ This project is developed by a **team of five members**, where each member is re
 
 ---
 
-## Member 4
+## Member 4 (Aaryaman Gupta)
 ### Modules
 - Credit Wallet
 - Analytics & Gamification
@@ -224,7 +224,7 @@ This project is developed by a **team of five members**, where each member is re
 
 ---
 
-## Member 5
+## Member 5 (Aaradhya Mittal)
 ### Modules
 - Community Page
 - Admin & Recruiter Portal
