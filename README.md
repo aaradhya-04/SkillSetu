@@ -258,11 +258,6 @@ Through this project we gained knowledge in:
 
 ---
 
-# 📜 License
-
-This project is developed for **educational purposes only**.
-
----
 
 # 🙌 Acknowledgement
 
